@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyDrinks", "EnergyDrinks\EnergyDrinks.csproj", "{405B1049-C9E6-46E3-809D-999F0C4B584A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RallyRacing", "RallyRacing\RallyRacing.csproj", "{A94C347D-33A7-4AE2-94D7-BA98328F7B3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{405B1049-C9E6-46E3-809D-999F0C4B584A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{405B1049-C9E6-46E3-809D-999F0C4B584A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{405B1049-C9E6-46E3-809D-999F0C4B584A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94C347D-33A7-4AE2-94D7-BA98328F7B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94C347D-33A7-4AE2-94D7-BA98328F7B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94C347D-33A7-4AE2-94D7-BA98328F7B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94C347D-33A7-4AE2-94D7-BA98328F7B3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
